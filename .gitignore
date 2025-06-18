@@ -1,0 +1,5 @@
+__pycahe__
+unsloth_compiled_cache/
+wandb/
+sst2_finetune/
+optimization_results/
